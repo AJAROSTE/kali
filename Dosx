@@ -1,0 +1,14 @@
+.image { 
+   position: relative; 
+   width: 100%;
+}
+h1 { 
+   position: absolute; 
+   top: 100px; 
+   left: 500px;
+   color:white; 
+}
+<div class="image">
+  <img src="img/banner.png" alt="" />
+   <h1>Yazılacak Metin</h1>
+ </div>
